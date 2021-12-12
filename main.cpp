@@ -20,7 +20,7 @@ int main(){
   }
   else
   {
-    cout << "Non presente" << endl;
+    cout << "non presente" << endl;
   }
   
   return 0;
