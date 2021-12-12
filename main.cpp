@@ -5,7 +5,7 @@ using namespace std;
 int main(){
   
   int posizione;
-  char a[10][20], f[1][20]
+  char a[10][20], f[1][20];
     
   for(int i = 0; i < 10; i++)
   {
